@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--cloud-941h317m7ih.com/sitemap.xml
